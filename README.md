@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachin-s30
 - 👀 I’m interested in creating web pages and responsive design
-- 🌱 I’m currently learning frontend development program.
+
 
 
 <!---
